@@ -22,6 +22,6 @@ namespace WebApplication1
                 .UseStartup<Startup>()
                 .Build();
 
-        \\test
+
     }
 }
